@@ -1,0 +1,11 @@
+product_id,product_name,category,rating,review_text,review_date
+101,Wireless Mouse,Electronics,5,Excellent product,2026-01-10
+102,Keyboard,Electronics,4,Good quality,2026-01-12
+103,Headphones,Electronics,2,Battery life is poor,2026-01-15
+104,Water Bottle,Home,5,Very useful,2026-01-18
+105,Backpack,Fashion,3,Average quality,2026-01-20
+106,Wireless Mouse,Electronics,4,Works well,2026-01-22
+107,Headphones,Electronics,1,Very disappointing,2026-01-25
+108,Backpack,Fashion,5,Great design,2026-01-27
+109,Water Bottle,Home,4,Good product,2026-01-29
+110,Keyboard,Electronics,3,Could be better,2026-02-01
