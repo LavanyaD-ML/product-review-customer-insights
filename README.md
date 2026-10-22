@@ -39,6 +39,16 @@ This project analyzes product reviews and customer ratings to identify product p
 
 ## Project Outcome
 The project generates product-wise and category-wise rating summaries, saves visualizations, cleans the dataset, and stores review data in an SQLite database.
+## Project Visualizations
+
+### 1. Category Ratings
+![Category Ratings](category_ratings.png)
+
+### 2. Product Ratings
+![Product Ratings](product_ratings.png)
+
+### 3. Rating Distribution
+![Rating Distribution](rating_distribution.png)
 
 ## Author
 Lavanya D
