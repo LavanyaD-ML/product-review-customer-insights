@@ -52,3 +52,4 @@ The project generates product-wise and category-wise rating summaries, saves vis
 
 ## Author
 Lavanya D
+B.Tech Artificial Intelligence and Machine Learning Student
