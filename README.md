@@ -50,6 +50,11 @@ The project generates product-wise and category-wise rating summaries, saves vis
 ### 3. Rating Distribution
 ![Rating Distribution](rating_distribution.png)
 
+## Live Demo
+
+🚀 Streamlit Dashboard: 
+https://appuct-review-customer-insights-hzt6ci3oyitvvhwor8p7zj.streamlit.app/
+
 ## Author
 Lavanya D
 B.Tech Artificial Intelligence and Machine Learning Student
